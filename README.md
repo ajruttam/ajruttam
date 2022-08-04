@@ -49,8 +49,6 @@ Hi, I'm Appana Jaya Ratna Uttam (😉Also called as Uttam) !!
 
 ---
 
-<br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajruttam&label=Profile%20Views&color=0e75b6&style=flat" alt="ajruttam"/> </p>
 
 <!--
