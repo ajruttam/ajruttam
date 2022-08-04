@@ -15,7 +15,7 @@ You can find me here :
 
 Hi, I'm Appana Jaya Ratna Uttam (😉Also called as Uttam) !!
 - 🔭 I'm currently an 2<sup>nd</sup> year undergrad pursuing Bachelor's in Computer Science and Engineering from Vellore Institute of Technology, Chennai, India.
-- 👩‍💻 I find my technical interests in Competitive Coding, Software Development.
+- 👨‍💻 I find my technical interests in Competitive Coding, Software Development.
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects.
 - 🏀 I love playing Basketball!
 
