@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://github.com/ajruttam/">Appana Jaya Ratna Uttam!</a></h1>
+<h1 align="center"> Hi <img alt="wave" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width=3.5%>, I'm <a href="https://github.com/ajruttam/">Appana Jaya Ratna Uttam!</a></h1>
 <h3 align="center"> Competitive Coder | Tech Enthusiast </h3>
 
 <br>
