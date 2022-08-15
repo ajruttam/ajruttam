@@ -46,8 +46,6 @@ Hi, I'm Appana Jaya Ratna Uttam (😉Also called as Uttam) !!
    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
-<br>
-
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajruttam&label=Profile%20Views&color=0e75b6&style=flat" alt="ajruttam"/> </p>
