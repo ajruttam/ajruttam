@@ -48,6 +48,9 @@ Hi, I'm Appana Jaya Ratna Uttam (😉Also called as Uttam) !!
 
 ---
 
+[![@a_j_r_uttam's Holopin board](https://holopin.me/a_j_r_uttam)](https://holopin.io/@a_j_r_uttam)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajruttam&label=Profile%20Views&color=0e75b6&style=flat" alt="ajruttam"/> </p>
 
 <!--
