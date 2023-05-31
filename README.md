@@ -6,7 +6,7 @@
 You can find me here :
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/jayaratnauttam-appana-148562239/"><img title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/jayaratnauttam-appana/"><img title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.hackerrank.com/a_j_r_uttam"><img title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
     <a href="https://www.codechef.com/users/a_j_r_uttam"><img title="CodeChef Account" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
     <a href="https://codeforces.com/profile/a_j_r_uttam"><img title="CodeForces Account" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
